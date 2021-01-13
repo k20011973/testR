@@ -30,5 +30,6 @@ public class App {
         }
 
         System.out.println(Lists.reverse(example));
+        System.out.println(Lists.reverse(example));
     }
 }
